@@ -1,0 +1,2 @@
+rootProject.name='ManualParsingJSON'
+include ':app'
